@@ -1,0 +1,13 @@
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\b\Base64Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\b\Base64Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\b\Base64Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\b\Base64Test\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\b\Base64Test\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\b\Base64Test\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\b\Base64Test\bin\Debug\Base64Test.dll
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\b\Base64Test\bin\Debug\Base64Test.pdb
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\i\Base64Test\Debug\Base64Test.Properties.Resources.resources
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\i\Base64Test\Debug\Base64Test.csproj.GenerateResource.Cache
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\i\Base64Test\Debug\Base64Test.csproj.CoreCompileInputs.cache
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\i\Base64Test\Debug\Base64Test.dll
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\i\Base64Test\Debug\Base64Test.pdb

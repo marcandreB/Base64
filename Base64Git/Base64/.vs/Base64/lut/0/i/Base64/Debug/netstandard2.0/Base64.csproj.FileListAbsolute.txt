@@ -1,0 +1,9 @@
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\b\Base64\Debug\netstandard2.0\Base64.deps.json
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\b\Base64\Debug\netstandard2.0\Base64.dll
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\b\Base64\Debug\netstandard2.0\Base64.pdb
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\i\Base64\Debug\netstandard2.0\Base64.csprojResolveAssemblyReference.cache
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\i\Base64\Debug\netstandard2.0\Base64.csproj.CoreCompileInputs.cache
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\i\Base64\Debug\netstandard2.0\Base64.AssemblyInfoInputs.cache
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\i\Base64\Debug\netstandard2.0\Base64.AssemblyInfo.cs
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\i\Base64\Debug\netstandard2.0\Base64.dll
+C:\Users\Bruh\Documents\Test_Decompress\Base64\.vs\Base64\lut\0\i\Base64\Debug\netstandard2.0\Base64.pdb
